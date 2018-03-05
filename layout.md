@@ -12,6 +12,8 @@ figures/w60g_proj_fes_phi
 b8lgu2ds2ig.html
 figures/w60g_fes
 e8islgogmbg.html
+figures/d76n_proj_fes_phi
+9c3l8d59h6k.html
 figures/d76n_fes
 5hstkv0ev4s.html
 fgot2t28ung.html
