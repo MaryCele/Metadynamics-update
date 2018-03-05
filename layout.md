@@ -14,6 +14,8 @@ figures/rdf_w60d_transMD_O515
 491g5fp8dr4.html
 figures/meta_conv_b2m
 rfqrsp68lcg.html
+figures/b2m_block
+bc1nl64qomg.html
 0gdcpsce5so.html
 figures/rdf_CA484_water_CIS
 figures/rdf_O498_water_CIS
