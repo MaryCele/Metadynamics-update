@@ -29,7 +29,6 @@ figures/d76n_meta_conv
 figures/d76n_block
 t6tqa19ppuc.html
 ijq41cjundo.html
-b8tjil5bl2g.html
 fp3leo6ctb4.html
 8hta98a7pag.html
 figures/w60g_meta_conv
