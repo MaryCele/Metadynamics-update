@@ -12,6 +12,8 @@ figures/w60g_proj_fes_phi
 b8lgu2ds2ig.html
 figures/w60g_fes
 e8islgogmbg.html
+figures/d76n_fes
+5hstkv0ev4s.html
 fgot2t28ung.html
 figures/b2m_trans_rmsd_protein
 1nl79tgjesc.html
