@@ -17,7 +17,6 @@ rfqrsp68lcg.html
 figures/b2m_block
 bc1nl64qomg.html
 figures/d76n_meta_conv
-0nd7docgi7s.html
 figures/d76n_block
 t6tqa19ppuc.html
 0gdcpsce5so.html
