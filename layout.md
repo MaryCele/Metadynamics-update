@@ -30,7 +30,6 @@ figures/d76n_block
 t6tqa19ppuc.html
 figures/rdf_O529_water_CIS
 fp3leo6ctb4.html
-8hta98a7pag.html
 figures/w60g_meta_conv
 8anbdo2ijko.html
 figures/w60g_block
