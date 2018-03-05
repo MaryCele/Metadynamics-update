@@ -16,6 +16,8 @@ figures/meta_conv_b2m
 rfqrsp68lcg.html
 figures/b2m_block
 bc1nl64qomg.html
+figures/d76n_meta_conv
+spa3q04sr4c.html
 0gdcpsce5so.html
 figures/rdf_CA484_water_CIS
 figures/rdf_O498_water_CIS
