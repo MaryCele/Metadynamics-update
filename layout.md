@@ -6,6 +6,8 @@ figures/b2m_proj_fes_psi
 figures/b2m_proj_fes_phi
 figures/b2m_fes
 ock906qb5d4.html
+figures/w60g_proj_fes_psi
+hrg2qt9rbks.html
 figures/w60g_proj_fes_phi
 b8lgu2ds2ig.html
 figures/w60g_fes
