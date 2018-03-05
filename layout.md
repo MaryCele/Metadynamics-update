@@ -2,7 +2,6 @@ abstract.html
 sherr3oku28.html
 untitled.html
 84kjk50g6ms.html
-d0unpdigc9k.tex
 r3tjerav7ik.html
 fgot2t28ung.html
 4s0unlvfpfc.html
