@@ -6,7 +6,6 @@ r3tjerav7ik.html
 figures/w60g_trans_md_bc_de
 figures/w60g_trans_MD_bc_fg
 2142qfmum1k.html
-figures/w60g_trans_MD_rmsd_protein
 491g5fp8dr4.html
 0gdcpsce5so.html
 figures/rdf_CA484_water_CIS
