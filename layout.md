@@ -33,7 +33,6 @@ nh24b3sg7lk.html
 2b6r7m322lg.html
 tamlfcpc72.tex
 9fe3.html
-figures/rdf_O515_water_CIS
 mbfl8f0d6ic.html
 figures/rdf_CA501_water_CIS
 eqvtvjp0r2c.html
