@@ -23,6 +23,8 @@ figures/b2m_block
 bc1nl64qomg.html
 figures/b2m_cis_conf
 0146eics0nc.html
+figures/rdf_O498_water_CIS
+d1hjvhr94jk.html
 figures/d76n_meta_conv
 figures/d76n_block
 t6tqa19ppuc.html
