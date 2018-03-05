@@ -21,6 +21,8 @@ ebgdqmt6n3o.html
 figures/meta_conv_b2m
 figures/b2m_block
 bc1nl64qomg.html
+figures/b2m_cis_conf
+0146eics0nc.html
 figures/d76n_meta_conv
 figures/d76n_block
 t6tqa19ppuc.html
