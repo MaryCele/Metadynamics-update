@@ -1,6 +1,6 @@
 ---
 version: 2
-multicolumn: false
+multicolumn: true
 web-width: 200
 align: center
 float: h!
