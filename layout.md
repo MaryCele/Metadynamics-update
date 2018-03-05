@@ -18,6 +18,8 @@ bc1nl64qomg.html
 figures/d76n_meta_conv
 figures/d76n_block
 t6tqa19ppuc.html
+figures/w60g_meta_conv
+8anbdo2ijko.html
 0gdcpsce5so.html
 figures/rdf_CA484_water_CIS
 figures/rdf_O498_water_CIS
