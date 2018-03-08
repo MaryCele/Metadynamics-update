@@ -1,7 +1,6 @@
 abstract.html
 sherr3oku28.html
 pp9h0lpbh0o.html
-0f9md16kphc.html
 23kcvcqm52g.html
 5dh0g7p10j.html
 figures/b2m_proj_fes_psi
