@@ -15,9 +15,6 @@ f2ghn8pvh8g.html
 5245i8n2mto.html
 pbh7sm2hm1k.html
 6jqn84bhktg.html
-ot5c58mb7a4.html
-hh04gekcmug.html
-b69c2v40328.html
 23kcvcqm52g.html
 5dh0g7p10j.html
 figures/b2m_proj_fes_psi
