@@ -4,9 +4,6 @@ pp9h0lpbh0o.html
 0f9md16kphc.html
 088voe0ujgk.html
 n87q3e5on.html
-bjhs66qhnlc.html
-nsoi40213js.html
-aq1kbsovooc.html
 23kcvcqm52g.html
 5dh0g7p10j.html
 figures/b2m_proj_fes_psi
