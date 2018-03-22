@@ -41,6 +41,8 @@ ebgdqmt6n3o.html
 f8tlmamhaik.html
 figures/rmsd_wt_cisMD
 bsosdnb4ghs.html
+figures/rdf_wt_CIS_MD
+e5s4u3nue2s.html
 figures/ser_his_wt_cisMD
 2d9mfktgct8.html
 figures/meta_conv_b2m
