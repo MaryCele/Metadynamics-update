@@ -23,7 +23,6 @@ figures/d76n_fes
 fgot2t28ung.html
 figures/b2m_trans_rmsd_protein
 1nl79tgjesc.html
-figures/rdf_b2m_trans_O498
 uk98sn96hi.html
 figures/b2m_trans_conf
 57oihj5rcm.html
