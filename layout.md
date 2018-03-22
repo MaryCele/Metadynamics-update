@@ -40,6 +40,8 @@ figures/rdf_w60d_transMD_O515
 figures/w60g_transMD
 ebgdqmt6n3o.html
 f8tlmamhaik.html
+figures/rmsd_wt_cisMD
+bsosdnb4ghs.html
 figures/ser_his_wt_cisMD
 2d9mfktgct8.html
 figures/meta_conv_b2m
