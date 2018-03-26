@@ -6,6 +6,8 @@ figures/mapcolor_fes_psi_phi
 23kcvcqm52g.html
 figures/phi_proline
 5vpeql5vdrs.html
+figures/proline_psi
+2fsif1asv3.html
 5dh0g7p10j.html
 figures/b2m_proj_fes_psi
 figures/b2m_proj_fes_phi
