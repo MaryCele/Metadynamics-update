@@ -58,6 +58,8 @@ figures/rdf_O498_water_CIS
 d1hjvhr94jk.html
 figures/trans_meta
 nnkjttq0vf8.html
+figures/cis_dist
+7vknl9ke2kk.html
 figures/d76n_meta_conv
 figures/d76n_block
 t6tqa19ppuc.html
