@@ -2,6 +2,7 @@ abstract.html
 sherr3oku28.html
 34r53p9u0bc.html
 pp9h0lpbh0o.html
+figures/mapcolor_fes_psi_phi
 23kcvcqm52g.html
 5dh0g7p10j.html
 figures/b2m_proj_fes_psi
