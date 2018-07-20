@@ -82,6 +82,8 @@ figures/b2m_cis_clust_PRO32HIS84
 i275bm9q314.html
 figures/b2m_trans_clust_PRO32HIS84
 r3hq7ihgiqg.html
+figures/b2m_trans_clust_HIS31SER33
+1i9k28c6768.html
 mbfl8f0d6ic.html
 eqvtvjp0r2c.html
 10bae.html
