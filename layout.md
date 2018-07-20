@@ -78,6 +78,8 @@ figures/rdf_O515_water_CIS
 2b6r7m322lg.html
 tamlfcpc72.tex
 9fe3.html
+figures/b2m_cis_clust_PRO32HIS84
+i275bm9q314.html
 mbfl8f0d6ic.html
 eqvtvjp0r2c.html
 10bae.html
