@@ -89,9 +89,6 @@ figures/b2m_trans_clust_HIS31SER33
 eqvtvjp0r2c.html
 5b5fim5prfc.html
 k7jiesk1178.html
-21jsclmb008.html
-nd8q2na592k.html
-qn52kttgebs.html
 dvcli7ib67c.html
 0gh8ufrgtj4.html
 10bae.html
