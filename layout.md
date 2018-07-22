@@ -92,8 +92,6 @@ k7jiesk1178.html
 21jsclmb008.html
 nd8q2na592k.html
 qn52kttgebs.html
-ahub5qeg7ug.html
-9j3n48g1kmg.html
 dvcli7ib67c.html
 0gh8ufrgtj4.html
 10bae.html
