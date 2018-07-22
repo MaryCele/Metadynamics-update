@@ -86,6 +86,5 @@ figures/b2m_cis_clust_HIS31ARG3
 ltpb4a6th3k.html
 figures/b2m_trans_clust_HIS31SER33
 1i9k28c6768.html
-mbfl8f0d6ic.html
 eqvtvjp0r2c.html
 10bae.html
